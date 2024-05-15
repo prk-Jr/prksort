@@ -33,17 +33,7 @@
 
   The `merge` function is a helper function used by the `sort` function to merge two sorted slices into one sorted slice.
 
-  ## Examples
-
-  To run the examples provided, clone the repository and execute the following command:
-
-  ```
-    cargo run --example basic_sort
-    ```
-
-      This will run the basic example provided in the `examples` directory, sorting a vector of integers.
-
-      ## License
+       ## License
 
       This code is provided under the MIT License. You can find the full license text in the LICENSE file.
 
