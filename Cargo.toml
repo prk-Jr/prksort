@@ -6,5 +6,6 @@ license = "MIT"
 keywords = ["DSA", "Algorithms", "Sorting"]
 categories = ["Data structures", "Algorithms" ]
 repository = "https://github.com/prk-Jr/prksort"
+description = "This is an implementation of the Merge Sort and Quick Sort  algorithms in Rust"
 
 [dependencies]
